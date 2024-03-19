@@ -1,0 +1,3 @@
+[submodule "src/cs-multiaddress"]
+	path = src/cs-multiaddress
+	url = git@github.com:Deliay/cs-multiaddress.git
